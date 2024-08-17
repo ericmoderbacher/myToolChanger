@@ -1,0 +1,6 @@
+[submodule "subModules/ToolChanger"]
+	path = subModules/ToolChanger
+	url = https://github.com/ericmoderbacher/ToolChanger
+[submodule "subModules/BOSL2"]
+	path = subModules/BOSL2
+	url = https://github.com/ericmoderbacher/BOSL2
